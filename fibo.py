@@ -1,4 +1,4 @@
-# Fibonacci numbers module
+# Fibonacci numbers module 
 
 def fib_print(n):
     """print Fibonacci series up to n"""
